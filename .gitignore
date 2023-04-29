@@ -1,0 +1,19 @@
+# Python files
+*.pyc
+__pycache__/
+
+# MySQL database
+*.db
+
+# Environment variables
+.env
+venv
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Logs and other generated files
+logs/
+*.log
+*.txt
